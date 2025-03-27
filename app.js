@@ -49,8 +49,8 @@ function resetMarkedText() {
 - Reset button
 - [Linkedin](https://www.linkedin.com/in/renilgarala/)
 - \`\`\`
-Code blocks 1
+  Code blocks 1
 - \`\`\`
-Code blocks 2
+  Code blocks 2
 `;
 }
